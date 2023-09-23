@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
-  "shortname": "wails-vite-react",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "name": "wails-vite-react",
+  "shortname": "vite-react",
+  "author": "Vixalie <vixalie@outlook.com>",
+  "description": "A template for creating a Wails application with Vite and React",
+  "helpurl": "https://github.com/vixalie/wails-vite-react"
 }
